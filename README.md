@@ -22,3 +22,8 @@
 ## License
 
 MIT
+
+---
+
+You can install Mute from the Chrome Web Store:
+https://chrome.google.com/webstore/detail/ncajcidgfbfkobnhohcakdfbmnknaejp
